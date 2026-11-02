@@ -69,8 +69,8 @@ Software Engineer passionate about building innovative digital solutions and cre
 
 - 🌐 Portfolio: https://hiba-portfolio-umber.vercel.app/
 - 💻 GitHub: https://github.com/HibaBachkar
-- 💼 LinkedIn: Add your LinkedIn profile URL
-- 📧 Email: Add your professional email
+- 💼 LinkedIn:https://www.linkedin.com/in/bachkar-hiba-598b69282/
+- 📧 Email:hibabachkar@gmail.com
 
 <p align="center">
   <i>Building digital experiences through code and innovation.</i>
